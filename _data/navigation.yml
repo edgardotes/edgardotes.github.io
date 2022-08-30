@@ -1,4 +1,5 @@
 - title: Blog
-  url: /
+#  url: /
+  url: /blog/
 - title: About
   url: /about/
