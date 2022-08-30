@@ -29,13 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: twitterusername
+  username: edgardt
   card: summary
 logo: logo.png
 social:
   name: name lastname
   links:
-    - https://twitter.com/username
+    - https://twitter.com/edgardt
     - https://github.com/edgardot01
 google_site_verification: xxxxx
 lang: en
@@ -55,5 +55,5 @@ sass:
 # Specify the author for blog posts
 author:
   name: dolores
-  url: https://github.com/username/
-  email: username@gmail.com
+  url: https://github.com/edgardot01/
+  email: edgar.dot.01@gmail.com
