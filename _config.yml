@@ -1,7 +1,7 @@
 # Setup
-title: Not Pure Poole
+title: Dolores 
 description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+url: https://edgardot01.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,14 +29,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: twitterusername
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: name lastname
   links:
-    - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://twitter.com/username
+    - https://github.com/edgardot01
 google_site_verification: xxxxx
 lang: en
 
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: dolores
+  url: https://github.com/username/
+  email: username@gmail.com
