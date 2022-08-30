@@ -1,9 +1,12 @@
-- type: dates
+- type: publications
   title: Publications
-  url: /dates/
+  url: /publications/
 #- type: categories
 #  title: Categories
 #  url: /categories/
-- type: tags
+#- type: tags
+#  title: Files
+#  url: /tags/
+- type: files
   title: Files
-  url: /tags/
+  url: /files/  
