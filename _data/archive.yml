@@ -7,6 +7,6 @@
 #- type: tags
 #  title: Files
 #  url: /tags/
-- type: files
-  title: Files
-  url: /files/  
+- type: research
+  title: Research
+  url: /research/  
