@@ -1,5 +1,5 @@
 ---
-layout: archive-dates
+layout: archive-taxonomies
 permalink: /research/
 title: Research
 ---
