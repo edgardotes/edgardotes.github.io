@@ -1,3 +1,6 @@
+- type: home
+  title: Home
+  url: /
 - type: publications
   title: Publications
   url: /publications/
