@@ -1,3 +1,4 @@
+This package based on the template by:
 # Not Pure Poole <!-- omit in toc -->
 
 <a href="https://jekyll-themes.com">
