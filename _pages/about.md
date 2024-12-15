@@ -26,3 +26,17 @@ Extratropical cyclones and their evolving dynamics.
 Atmospheric blocking and its implications.
 Impacts of atmospheric processes on renewable energy production.
 Feel free to explore, and thank you for visiting!
+
+
+**¡Bienvenidos!** 
+Soy Edgar Dolores-Tesillos, investigador postdoctoral en la Universität Bern, especializado en ciencias atmosféricas. Mi trabajo se centra en la intrincada dinámica de los procesos atmosféricos a gran escala y sus impactos de largo alcance.
+
+Completé mi doctorado en el Instituto de Meteorología de la Universidad Libre de Berlín, donde perfeccioné mis habilidades para analizar los patrones de circulación atmosférica y gestionar grandes conjuntos de modelos climáticos. Mi investigación exploró cómo el calentamiento climático influye en la estructura y el comportamiento de los ciclones extratropicales intensos. A través de un extenso análisis de datos climáticos y programación en lenguajes como Fortran, MATLAB y Python, descubrí hallazgos clave:
+
+Es probable que los futuros ciclones extratropicales tengan una huella más amplia de vientos fuertes, impulsados ​​por el aumento de la humedad en un clima en calentamiento. Estos conocimientos enfatizan la importancia de representar con precisión los procesos húmedos, como la formación de nubes, en los modelos climáticos. La aparición de simulaciones climáticas a escala kilométrica ofrece posibilidades interesantes, ya que los modelos de mayor resolución prometen simulaciones mejoradas tanto de la circulación a gran escala como de procesos húmedos cruciales.
+
+Completé mi licenciatura y maestría en México, lo que sentó las bases de mi pasión por la ciencia atmosférica.
+
+En este sitio, comparto actualizaciones sobre mi investigación y proyectos actuales, que se centran en:
+
+Ciclones extratropicales y su dinámica evolutiva. Bloqueo atmosférico y sus implicaciones. Impactos de los procesos atmosféricos en la producción de energía renovable. ¡Siéntete libre de explorar y gracias por visitarnos!
