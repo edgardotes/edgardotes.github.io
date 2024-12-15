@@ -39,4 +39,8 @@ Completé mi licenciatura y maestría en México, lo que sentó las bases de mi 
 
 En este sitio, comparto actualizaciones sobre mi investigación y proyectos actuales, que se centran en:
 
-Ciclones extratropicales y su dinámica evolutiva. Bloqueo atmosférico y sus implicaciones. Impactos de los procesos atmosféricos en la producción de energía renovable. ¡Siéntete libre de explorar y gracias por visitarnos!
+Ciclones extratropicales y su dinámica evolutiva. Bloqueo atmosférico y sus implicaciones. Impactos de los procesos atmosféricos en la producción de energía renovable. ¡Siéntete libre de explorar y gracias por visitar!
+
+|![](http://edgardotes.github.io/images/icon_sim.gif)|
+|:--:| 
+| *ICON simulation of precipitation as part of NextGEMS project (Postdoc project).* |
