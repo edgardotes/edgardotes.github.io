@@ -34,6 +34,17 @@ _Environmental Research Letters_,
 <a href="/publications/Dolores2024_erl.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Dolores2024_erl_supplement.pdf" target="_blank">Supplement</a>
 
+- **Dolores-Tesillos, E.**, Martius, O., and Quinting, J. (2024):
+<a href="https://doi.org/10.5194/egusphere-2024-2878" target="_blank">On the role of moist and dry processes for atmospheric blocking biases in the Euro-Atlantic region in CMIP6</a>,
+_EGUsphere [Preprint]_,
+<a href="/publications/Dolores2024_wcd_blocks.pdf" target="_blank"><b>PDF</b></a>,
+<a href="/publications/supplement/Dolores2024_wcd_blocks_supplement.pdf" target="_blank">Supplement</a>
+
+- **Dolores-Tesillos E.**, and Pfahl, S (2024):
+  <a href="https://doi.org/10.5194/wcd-5-163-2024" target="_blank">Future changes in North Atlantic winter cyclones in CESM-LE – Part 2 (2024). A Lagrangian analysis</a>,
+_Weather Clim. Dynam._,
+<a href="/publications/Dolores2024_wcd_cyclones.pdf" target="_blank"><b>PDF</b></a>,
+<a href="/publications/supplement/Dolores2024_wcd_cyclones_supplement.pdf" target="_blank">Supplement</a>
 
  
 Other
