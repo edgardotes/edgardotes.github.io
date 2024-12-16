@@ -9,10 +9,9 @@ redirect_from:
 
 [Español abajo]
 
-**Welcome!**
-I’m Edgar Dolores-Tesillos, a Postdoctoral Researcher at the Universität Bern, specializing in atmospheric science. My work delves into the intricate dynamics of large-scale atmospheric processes and their surface weather impacts.
+I’m Edgar Dolores-Tesillos, a Postdoctoral Researcher at the Universität Bern, specializing in atmospheric science. My work delves into the intricate dynamics of large-scale atmospheric processes and their impact on surface weather.
 
-I completed my PhD at the Institute of Meteorology at the Free University of Berlin, where I honed my skills in analyzing atmospheric circulation patterns and managing large ensembles of climate models. My research explored how climate warming influences the structure and behavior of intense extratropical cyclones. 
+I completed my PhD at the Institute of Meteorology at the Free University of Berlin, where I honed my skills in analyzing atmospheric circulation patterns and managing large ensembles of climate models. My research explored how climate warming influences the structure and behaviour of intense extratropical cyclones. 
 I completed my Bachelor's and Master's degrees in Mexico, which laid the foundation for my passion for atmospheric science.
 On this site, I share updates on my research and current projects, which focus on:
 Extratropical cyclones and their evolving dynamics.
@@ -20,8 +19,9 @@ Atmospheric blocking and its implications.
 Impacts of atmospheric processes on renewable energy production.
 Feel free to explore, and thank you for visiting!
 
+---
+# Bienvenido
 
-**¡Bienvenido!** 
 Soy Edgar Dolores-Tesillos, investigador postdoctoral en la Universität Bern, especializado en ciencias atmosféricas. Mi trabajo se centra en la intrincada dinámica de los procesos atmosféricos a gran escala y sus impactos en superficie.
 
 Completé mi doctorado en el Instituto de Meteorología de la Universidad Libre de Berlín, donde perfeccioné mis habilidades para analizar los patrones de circulación atmosférica y gestionar grandes conjuntos de modelos climáticos. Mi investigación exploró cómo el calentamiento climático influye en la estructura y el comportamiento de los ciclones extratropicales intensos.
