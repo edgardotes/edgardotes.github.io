@@ -28,6 +28,14 @@ __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
 
+- **Dolores-Tesillos, E.**, Martius, O., and Quinting, J. (2025):
+<a href="https://wcd.copernicus.org/articles/6/471/2025/" target="_blank">On the role of moist and dry processes in atmospheric blocking biases in the Euro-Atlantic region in CMIP6</a>,
+_Weather Clim. Dynam._
+<!--
+<a href="/publications/Dolores2024_wcd_blocks.pdf" target="_blank"><b>PDF</b></a>,
+<a href="/publications/supplement/Dolores2024_wcd_blocks_supplement.pdf" target="_blank">Supplement</a>
+ -->
+
 - Segura, H., Pedruzo-Bagazgoitia, X., Weiss, P., Müller, S. K., Rackow, T., Lee, J., **Dolores-Tesillos, E.**, Benedict, I., Aengenheyster, M., Aguridan, R., Arduini, G., Baker, A. J., Bao, J., Bastin, S., Baulenas, E., Becker, T., Beyer, S., Bockelmann, H., Brüggemann, N., Brunner, L., Cheedela, S. K., Das, S., Denissen, J., Dragaud, I., Dziekan, P., Ekblom, M., Engels, J. F., Esch, M., Forbes, R., Frauen, C., Freischem, L., García-Maroto, D., Geier, P., Gierz, P., González-Cervera, Á., Grayson, K., Griffith, M., Gutjahr, O., Haak, H., Hadade, I., Haslehner, K., ul Hasson, S., Hegewald, J., Kluft, L., Koldunov, A., Koldunov, N., Kölling, T., Koseki, S., Kosukhin, S., Kousal, J., Kuma, P., Kumar, A. U., Li, R., Maury, N., Meindl, M., Milinski, S., Mogensen, K., Niraula, B., Nowak, J., Praturi, D. S., Proske, U., Putrasahan, D., Redler, R., Santuy, D., Sármány, D., Schnur, R., Scholz, P., Sidorenko, D., Spät, D., Sützl, B., Takasuka, D., Tompkins, A., Uribe, A., Valentini, M., Veerman, M., Voigt, A., Warnau, S., Wachsmann, F., Wacławczyk, M., Wedi, N., Wieners, K.-H., Wille, J., Winkler, M., Wu, Y., Ziemen, F., Zimmermann, J., Bender, F. A.-M., Bojovic, D., Bony, S., Bordoni, S., Brehmer, P., Dengler, M., Dutra, E., Faye, S., Fischer, E., van Heerwaarden, C., Hohenegger, C., Järvinen, H., Jochum, M., Jung, T., Jungclaus, J. H., Keenlyside, N. S., Klocke, D., Konow, H., Klose, M., Malinowski, S., Martius, O., Mauritsen, T., Mellado, J. P., Mieslinger, T., Mohino, E., Pawłowska, H., Peters-von Gehlen, K., Sarré, A., Sobhani, P., Stier, P., Tuppi, L., Vidale, P. L., Sandu, I., and Stevens, B.  (2025):
 <a href="https://doi.org/10.5194/egusphere-2025-509" target="_blank">nextGEMS: entering the era of kilometer-scale Earth system modeling</a>,
 _EGUsphere [preprint]_,
@@ -42,14 +50,6 @@ _Environmental Research Letters_,
 <a href="/publications/Dolores2024_erl.pdf" target="_blank"><b>PDF</b></a>
 <!--
 <a href="/publications/supplement/Dolores2024_erl_supplement.pdf" target="_blank">Supplement</a>
- -->
-  
-- **Dolores-Tesillos, E.**, Martius, O., and Quinting, J. (2024):
-<a href="https://doi.org/10.5194/egusphere-2024-2878" target="_blank">On the role of moist and dry processes for atmospheric blocking biases in the Euro-Atlantic region in CMIP6</a>,
-_EGUsphere [Preprint]_
-<!--
-<a href="/publications/Dolores2024_wcd_blocks.pdf" target="_blank"><b>PDF</b></a>,
-<a href="/publications/supplement/Dolores2024_wcd_blocks_supplement.pdf" target="_blank">Supplement</a>
  -->
  
 - **Dolores-Tesillos E.**, and Pfahl, S (2024):
