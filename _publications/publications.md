@@ -37,7 +37,7 @@ _Weather Clim. Dynam._
  -->
 
  - Duncan Ackerley and Jennifer L. Catto and **Edgar Dolores-Tesillos** and Matthew D.K. Priestley and Shira Raveh-Rubin and Reinhard Schiemann and Charlie C. Suitters (2025):
-<a href="https://www.sciencedirect.com/science/article/pii/B9780443157486000058" target="_blank">Weather systems in mid-latitudes</a>,
+<a href="https://www.sciencedirect.com/science/article/pii/B9780443157486000058" target="_blank">Weather systems in mid-latitudes. In Reference Module in Earth Systems and Environmental Sciences.</a>,
 _Elsevier_
 <!--
 <a href="/publications/Ackerley2025_elsevier_blocks.pdf" target="_blank"><b>PDF</b></a>,
