@@ -41,7 +41,7 @@ With a PhD from the Free University of Berlin, I bring expertise in climate mode
 
 ---
 
-Feel free to explore my projects and [get in touch](edgar.dot.01@gmail.com)!
+Feel free to explore my projects!
 
 ---
 
