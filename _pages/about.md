@@ -41,7 +41,7 @@ With a PhD from the Free University of Berlin, I bring expertise in climate mode
 
 ---
 
-Feel free to explore my projects and [get in touch](edgar.dolores@unibe.ch)!
+Feel free to explore my projects and [get in touch](edgar.dot.01@gmail.com)!
 
 ---
 
@@ -79,7 +79,7 @@ Con un doctorado por la Universidad Libre de Berlín, aporto experiencia en mode
 
 ---
 
-¡Explora mis proyectos y [contáctame](edgar.dolores@unibe.ch)!
+¡Explora mis proyectos y [contáctame](edgar.dot.01@gmail.com)!
 
 |![](http://edgardotes.github.io/images/icon_sim.gif)|
 |:--:| 
