@@ -171,7 +171,7 @@ $global-transition          : all 0.2s ease-in-out;
   --link-color-hover: #1f5b6b;
 }
 
-.dark-theme {
+:root.dark-theme {
   --bg-color: #121212;
   --text-color: #f0f0f0;
   --link-color: #88c0d0;
