@@ -163,3 +163,18 @@ $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $navicon-width              : 28px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
+
+:root {
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --link-color: #2f7f93;
+  --link-color-hover: #1f5b6b;
+}
+
+.dark-theme {
+  --bg-color: #121212;
+  --text-color: #f0f0f0;
+  --link-color: #88c0d0;
+  --link-color-hover: #81a1c1;
+}
+
