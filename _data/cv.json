@@ -1,152 +1,158 @@
-{
-  "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+  {
+    "basics": {
+    "name": "Edgar Dolores-Tesillos",
+    "email": "edgar.dot.01@gmail.com",
+    "phone": "+41 076 464 6849",
+    "website": "https://edgardotes.github.io",
+    "summary": "Atmospheric scientist with expertise in extratropical dynamics, blocking, and climate hazards. Experienced in analyzing high-impact weather events and assessing climate risk using large ensemble datasets and high-resolution simulations. Strong programming background (Python, Fortran) and high-performance computing skills. Passionate about applying science to real-world risk challenges.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
+      "address": "Breitenrainstrasse, 15",
+      "postalCode": "3013",
+      "city": "Bern",
+      "countryCode": "CH",
+      "region": "Switzerland"
     },
     "profiles": [
       {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "0009-0005-7327-180X",
+        "url": "https://orcid.org/0009-0005-7327-180X"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "edgardotes",
+        "url": "https://github.com/edgardotes"
       }
     ]
   },
-  "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
+      "institution": "Freie Universit\u00e4t Berlin",
+      "area": "Ph.D. in Meteorology",
+      "startDate": "2018",
+      "endDate": "2022",
+      "summary": "Thesis: Changes in Extratropical Cyclone Dynamics in the North Atlantic in a Warming Climate"
+    },
+    {
+      "institution": "UNAM",
+      "area": "M.Sc. in Earth Science",
+      "startDate": "2015",
       "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "summary": "Thesis: Detection of the impact of soil moisture on convective initiation in Mexico"
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
+      "institution": "University of Veracruz",
+      "area": "B.Sc. in Atmospheric Sciences",
+      "startDate": "2009",
       "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "summary": "Thesis: Characteristic thermodynamics profile for a Norte event in the port of Veracruz."
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
+  "work": [
+    {
+      "position": "Postdoctoral Researcher in Climate Impacts",
+      "organization": "University of Bern",
+      "location": "Switzerland",
+      "startDate": "2023",
+      "endDate": "",
+      "summary": "Project: Representation and Impacts of Atmospheric Blocking in the nextGEMS",
+      "highlights": [
+        "Assessed biases in blocking frequency, duration, and dynamics in high-resolution climate simulations (e.g., ICON, IFS)",
+        "Evaluated large-scale circulation patterns influencing renewable energy variability and extreme weather in Europe",
+        "Utilized diagnostic tools in Python and leveraged high-performance computing (DKRZ, Levante)",
+        "Engaged in interdisciplinary collaborations and workshops focused on climate hazard impacts"
+      ]
+    },
+    {
+      "position": "Ph.D. Researcher",
+      "organization": "Freie Universit\u00e4t Berlin",
+      "location": "Germany",
+      "startDate": "2018",
+      "endDate": "2022",
+      "summary": "Project: Extratropical Cyclone Dynamics in CESM Large Ensemble",
+      "highlights": [
+        "Investigated shifts in cyclone tracks and changes in wind and precipitation extremes with direct implications for climate risk",
+        "Developed diagnostic, statistical, and visualization tools using Python and Fortran",
+        "Contributed to publications and presented findings at international conferences"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming",
+      "level": "advanced",
+      "keywords": [
+        "Python",
+        "Fortran",
+        "Bash",
+        "R",
+        "MATLAB"
+      ]
+    },
+    {
+      "name": "Data & Modeling Tools",
+      "keywords": [
+        "xarray",
+        "netCDF",
+        "CDO",
+        "NCO",
+        "Git",
+        "Pandas",
+        "Matplotlib",
+        "LaTeX"
+      ]
+    },
+    {
+      "name": "HPC & Data Handling",
+      "keywords": [
+        "Levante (DKRZ)",
+        "SLURM",
+        "large ensemble workflows"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "fluent"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "native"
+    },
+    {
+      "language": "German",
+      "fluency": "intermediate"
+    }
+  ],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "On the role of moist and dry processes in atmospheric blocking biases in the Euro-Atlantic region in CMIP6",
+      "publisher": "Weather Clim. Dynam.",
+      "releaseDate": "2025",
+      "website": "https://doi.org/10.5194/wcd-6-471-2025",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Projections of standardised energy indices in future climate scenarios",
+      "publisher": "Environmental Research Letters",
+      "releaseDate": "2024",
+      "website": "https://doi.org/10.1088/1748-9326/ad9b3f",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Future changes in North Atlantic winter cyclones in CESM-LE \u2013 Part 1",
+      "publisher": "Weather Clim. Dynam.",
+      "releaseDate": "2022",
+      "website": "https://doi.org/10.5194/wcd-3-429-2022",
+      "summary": ""
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Influence of soil moisture on mesoscale convective initiation in central Mexico",
+      "publisher": "European Journal of Remote Sensing",
+      "releaseDate": "2019",
+      "website": "https://doi.org/10.1080/22797254.2019.1700397",
+      "summary": ""
     }
   ]
 }
