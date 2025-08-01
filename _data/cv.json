@@ -6,8 +6,8 @@
     "website": "https://edgardotes.github.io",
     "summary": "Atmospheric scientist with expertise in extratropical dynamics, blocking, and climate hazards. Experienced in analyzing high-impact weather events and assessing climate risk using large ensemble datasets and high-resolution simulations. Strong programming background (Python, Fortran) and high-performance computing skills. Passionate about applying science to real-world risk challenges.",
     "location": {
-      "address": "Breitenrainstrasse, 15",
-      "postalCode": "3013",
+      "address": "Hallerstrasse, 12",
+      "postalCode": "3012",
       "city": "Bern",
       "countryCode": "CH",
       "region": "Switzerland"
@@ -92,13 +92,10 @@
     {
       "name": "Data & Modeling Tools",
       "keywords": [
-        "xarray",
         "netCDF",
         "CDO",
         "NCO",
         "Git",
-        "Pandas",
-        "Matplotlib",
         "LaTeX"
       ]
     },
@@ -125,7 +122,7 @@
       "fluency": "intermediate"
     }
   ],
-  "publications": [
+  "publications (selected)": [
     {
       "name": "On the role of moist and dry processes in atmospheric blocking biases in the Euro-Atlantic region in CMIP6",
       "publisher": "Weather Clim. Dynam.",
