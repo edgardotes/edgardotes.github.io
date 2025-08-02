@@ -89,9 +89,15 @@ Other
 <!-- / Andere -->
 
 - **Dolores-Tesillos E.** (2022):
-  <a href="http://dx.doi.org/10.17169/refubium-36403" target="_blank">Changes in Extratropical Cyclone Dynamics in the North Atlantic in a Warming Climate(PhD thesis)</a>,
+  <a href="http://dx.doi.org/10.17169/refubium-36403" target="_blank">Changes in Extratropical Cyclone Dynamics in the North Atlantic in a Warming Climate (PhD thesis)</a>,
 _Freie Universitaet Berlin_
 <!-- 
-<a href="/publications/Thesis_Edgar_Dolores-Tesillos.pdf" target="_blank"><b>PDF</b></a>
+<a href="/publications/Dolores2022_PHD.pdf" target="_blank"><b>PDF</b></a>
  -->
 
+- **Dolores-Tesillos E.** (2017):
+  <a href="https://repositorio.unam.mx/contenidos/297020" target="_blank">Detección del impacto de la humedad del suelo en la iniciación convectiva en México" (Master's thesis).</a>,
+_Universidad Nacional Autónoma de México_
+<!-- 
+<a href="/publications/Dolores2017_MSC.pdf" target="_blank"><b>PDF</b></a>
+ -->
