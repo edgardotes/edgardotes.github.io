@@ -15,7 +15,7 @@ I have published 4 peer-reviewed articles, which have been cited more than 50 ti
 Coming up
 ---------
 
-- Duncan Ackerley and Jennifer L. Catto and **Edgar Dolores-Tesillos** and Matthew D.K. Priestley and Shira Raveh-Rubin and Reinhard Schiemann and Charlie C. Suitters (2025):
+- Ackerley, D., Catto, J. L., **Dolores-Tesillos, E.** Priestley, M. D. K., Raveh-Rubin, S., Schiemann, R., & Suitters, C. C. (2025):
 <a href="https://www.sciencedirect.com/science/article/pii/B9780443157486000058" target="_blank">Weather systems in mid-latitudes. In Reference Module in Earth Systems and Environmental Sciences.</a>,
 _Elsevier_
 <!--
