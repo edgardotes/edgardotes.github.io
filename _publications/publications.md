@@ -88,3 +88,10 @@ Other
 -----
 <!-- / Andere -->
 
+- **Dolores-Tesillos E.** (2022):
+  <a href="http://dx.doi.org/10.17169/refubium-36403" target="_blank">Changes in Extratropical Cyclone Dynamics in the North Atlantic in a Warming Climate(PhD thesis)</a>,
+_Freie Universitaet Berlin_
+<!-- 
+<a href="/publications/Thesis_Edgar_Dolores-Tesillos.pdf" target="_blank"><b>PDF</b></a>
+ -->
+
