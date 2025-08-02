@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[Español abajo]
+[Versión en español más abajo]
 
 Hi, I'm Edgar Dolores-Tesillos — a scientist passionate about understanding the atmosphere and its impacts on our daily lives and industries. I am currently a Postdoctoral Researcher at the University of Bern, specializing in large-scale weather systems and climate risks.
 
@@ -15,7 +15,7 @@ With a PhD from the Free University of Berlin, I bring expertise in climate mode
 
 ---
 
-## 🌎 What I Do
+## � What I Do
 
 - **Analyze large-scale weather patterns** to understand and anticipate extreme events like storms, heatwaves, and atmospheric blocks.
 - **Model climate risks** using advanced Earth system models and large ensembles to inform future planning and adaptation strategies.
@@ -23,7 +23,7 @@ With a PhD from the Free University of Berlin, I bring expertise in climate mode
 
 ---
 
-## 🚀 Solutions I Offer
+##  Solutions I Offer
 
 - **Climate risk assessments** for renewable energy, urban planning, and critical infrastructure.
 - **Custom analysis** of extreme weather events and trends under current and future climates.
@@ -31,7 +31,7 @@ With a PhD from the Free University of Berlin, I bring expertise in climate mode
 
 ---
 
-## 🔥 Areas of Expertise
+##  Areas of Expertise
 
 - Extratropical cyclones and their changing behavior
 - Atmospheric blocking and extreme weather
@@ -53,7 +53,7 @@ Con un doctorado por la Universidad Libre de Berlín, aporto experiencia en mode
 
 ---
 
-## 🌎 Qué hago
+##  Qué hago
 
 - **Analizo patrones meteorológicos a gran escala** para comprender y anticipar eventos extremos como tormentas, olas de calor y bloqueos atmosféricos.
 - **Modelo riesgos climáticos** utilizando modelos avanzados y grandes conjuntos de simulaciones para apoyar la planeación y adaptación futura.
@@ -61,7 +61,7 @@ Con un doctorado por la Universidad Libre de Berlín, aporto experiencia en mode
 
 ---
 
-## 🚀 Soluciones que ofrezco
+##  Soluciones que ofrezco
 
 - **Evaluaciones de riesgo climático** para energía renovable, planeación urbana e infraestructura crítica.
 - **Análisis personalizados** de eventos meteorológicos extremos y tendencias bajo climas presentes y futuros.
@@ -69,7 +69,7 @@ Con un doctorado por la Universidad Libre de Berlín, aporto experiencia en mode
 
 ---
 
-## 🔥 Áreas de especialidad
+##  Áreas de especialidad
 
 - Ciclones extratropicales y su evolución
 - Bloqueo atmosférico y eventos extremos
