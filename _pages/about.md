@@ -83,4 +83,4 @@ Con un doctorado por la Universidad Libre de Berlín, aporto experiencia en mode
 
 |![](http://edgardotes.github.io/images/Blocking_little.gif)|
 |:--:| 
-| *Satellite images show an atmospheric blocking event that contributed to heavy rainfall and widespread flooding across Western and Central Europe in May 2024.* |
+| *Satellite images show a persistent high-pressure system over Scandinavia — known as a 'Scandinavian blocking' — that contributed to heavy rainfall and widespread flooding across Western and Central Europe in May 2024.* |
