@@ -81,6 +81,6 @@ Con un doctorado por la Universidad Libre de Berlín, aporto experiencia en mode
 
 ¡Explora mis proyectos y [contáctame](mailto:edgar.dot.01@gmail.com)!
 
-|![](http://edgardotes.github.io/images/icon_sim.gif)|
+|![](http://edgardotes.github.io/images/Blocking_little.gif)|
 |:--:| 
-| *Simulation of precipitation using the kilometer-scale global circulation model ICON as part of the NextGEMS project.* |
+| *Satellite images show an atmospheric blocking event that contributed to heavy rainfall and widespread flooding across Western and Central Europe in May 2024.* |
