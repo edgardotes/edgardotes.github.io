@@ -15,7 +15,7 @@ With a PhD from the Free University of Berlin, I bring expertise in climate mode
 
 ---
 
-## � What I Do
+##  What I Do
 
 - **Analyze large-scale weather patterns** to understand and anticipate extreme events like storms, heatwaves, and atmospheric blocks.
 - **Model climate risks** using advanced Earth system models and large ensembles to inform future planning and adaptation strategies.
