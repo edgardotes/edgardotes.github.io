@@ -15,13 +15,6 @@ I have published 4 peer-reviewed articles, which have been cited more than 50 ti
 Coming up
 ---------
 
-- Ackerley, D., Catto, J. L., **Dolores-Tesillos, E.** Priestley, M. D. K., Raveh-Rubin, S., Schiemann, R., & Suitters, C. C. (2025):
-<a href="https://www.sciencedirect.com/science/article/pii/B9780443157486000058" target="_blank">Weather systems in mid-latitudes. In Reference Module in Earth Systems and Environmental Sciences.</a>,
-_Elsevier_
-<!--
-<a href="/publications/Ackerley2025_elsevier_blocks.pdf" target="_blank"><b>PDF</b></a>,
-<a href="/publications/supplement/Ackerley2025_elsevier_blocks_supplement.pdf" target="_blank">Supplement</a>
- -->
 
 - Segura, H., Pedruzo-Bagazgoitia, X., Weiss, P., Müller, S. K., Rackow, T., Lee, J., **Dolores-Tesillos, E.**, Benedict, I., Aengenheyster, M., Aguridan, R., Arduini, G., Baker, A. J., Bao, J., Bastin, S., Baulenas, E., Becker, T., Beyer, S., Bockelmann, H., Brüggemann, N., ... Stevens, B.  (2025) (accepted):
 <a href="https://doi.org/10.5194/egusphere-2025-509" target="_blank">nextGEMS: entering the era of kilometer-scale Earth system modeling</a>,
@@ -50,6 +43,14 @@ _Weather Clim. Dynam._
 <!--
 <a href="/publications/Dolores2024_wcd_blocks.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Dolores2024_wcd_blocks_supplement.pdf" target="_blank">Supplement</a>
+ -->
+
+ - Ackerley, D., Catto, J. L., **Dolores-Tesillos, E.** Priestley, M. D. K., Raveh-Rubin, S., Schiemann, R., & Suitters, C. C. (2025):
+<a href="https://www.sciencedirect.com/science/article/pii/B9780443157486000058" target="_blank">Weather systems in mid-latitudes.</a> In Reference Module in Earth Systems and Environmental Sciences.,
+_Elsevier_
+<!--
+<a href="/publications/Ackerley2025_elsevier_blocks.pdf" target="_blank"><b>PDF</b></a>,
+<a href="/publications/supplement/Ackerley2025_elsevier_blocks_supplement.pdf" target="_blank">Supplement</a>
  -->
 
 - **Dolores-Tesillos, E.**, Otero, N., and Allen, S. (2024):
@@ -89,7 +90,7 @@ Other
 <!-- / Andere -->
 
 - **Dolores-Tesillos E.** (2022):
-  <a href="http://dx.doi.org/10.17169/refubium-36403" target="_blank">Changes in Extratropical Cyclone Dynamics in the North Atlantic in a Warming Climate (PhD thesis)</a>,
+  <a href="http://dx.doi.org/10.17169/refubium-36403" target="_blank">Changes in Extratropical Cyclone Dynamics in the North Atlantic in a Warming Climate (PhD thesis).</a>,
 _Freie Universitaet Berlin_
 <!-- 
 <a href="/publications/Dolores2022_PHD.pdf" target="_blank"><b>PDF</b></a>
