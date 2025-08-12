@@ -46,7 +46,7 @@ _Weather Clim. Dynam._
  -->
 
  - Ackerley, D., Catto, J. L., **Dolores-Tesillos, E.** Priestley, M. D. K., Raveh-Rubin, S., Schiemann, R., & Suitters, C. C. (2025):
-<a href="https://www.sciencedirect.com/science/article/pii/B9780443157486000058" target="_blank">Weather systems in mid-latitudes.</a> In Reference Module in Earth Systems and Environmental Sciences.,
+<a href="https://www.sciencedirect.com/science/article/pii/B9780443157486000058" target="_blank">Weather systems in mid-latitudes.</a> In Reference Module in Earth Systems and Environmental Sciences,
 _Elsevier_
 <!--
 <a href="/publications/Ackerley2025_elsevier_blocks.pdf" target="_blank"><b>PDF</b></a>,
@@ -90,14 +90,14 @@ Other
 <!-- / Andere -->
 
 - **Dolores-Tesillos E.** (2022):
-  <a href="http://dx.doi.org/10.17169/refubium-36403" target="_blank">Changes in Extratropical Cyclone Dynamics in the North Atlantic in a Warming Climate (PhD thesis).</a>,
+  <a href="http://dx.doi.org/10.17169/refubium-36403" target="_blank">Changes in Extratropical Cyclone Dynamics in the North Atlantic in a Warming Climate (PhD thesis)</a>,
 _Freie Universitaet Berlin_
 <!-- 
 <a href="/publications/Dolores2022_PHD.pdf" target="_blank"><b>PDF</b></a>
  -->
 
 - **Dolores-Tesillos E.** (2017):
-  <a href="https://repositorio.unam.mx/contenidos/297020" target="_blank">Detección del impacto de la humedad del suelo en la iniciación convectiva en México" (Master's thesis).</a>,
+  <a href="https://repositorio.unam.mx/contenidos/297020" target="_blank">Detección del impacto de la humedad del suelo en la iniciación convectiva en México" (Master's thesis)</a>,
 _Universidad Nacional Autónoma de México_
 <!-- 
 <a href="/publications/Dolores2017_MSC.pdf" target="_blank"><b>PDF</b></a>
