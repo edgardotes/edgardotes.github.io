@@ -49,12 +49,24 @@
     }
   ],
   "work": [
+      {
+      "position": "Postdoctoral Researcher in Atmospheric Processes",
+      "organization": "University of Lausanne",
+      "location": "Switzerland",
+      "startDate": "2025",
+      "endDate": "",
+      "summary": "Project: Dynamical constraints for the predictability of heat waves in current and future climates (HEATforecast)",
+      "highlights": [
+        "Analysed role of large-scale circulation in shaping the frequency and duration of heatwaves",
+        "Utilized diagnostic tools in Python and leveraged high-performance computing (e.g., ALPS)",
+      ]
+    },
     {
       "position": "Postdoctoral Researcher in Climate Impacts",
       "organization": "University of Bern",
       "location": "Switzerland",
       "startDate": "2023",
-      "endDate": "",
+      "endDate": "2025",
       "summary": "Project: Representation and Impacts of Atmospheric Blocking in the nextGEMS",
       "highlights": [
         "Assessed biases in blocking frequency, duration, and dynamics in high-resolution climate simulations (e.g., ICON, IFS)",
