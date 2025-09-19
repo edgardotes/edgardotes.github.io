@@ -9,7 +9,7 @@ redirect_from:
 
 [Versión en español más abajo]
 
-Hi, I'm Edgar Dolores-Tesillos — a scientist passionate about understanding the atmosphere and its impacts on our daily lives and industries. I am currently a Postdoctoral Researcher at the University of Bern, specializing in large-scale weather systems and climate risks.
+Hi, I'm Edgar Dolores-Tesillos — a scientist passionate about understanding the atmosphere and its impacts on our daily lives and industries. I am currently a Postdoctoral Researcher at the University of Lausanne, specializing in large-scale weather systems and climate risks.
 
 With a PhD from the Free University of Berlin, I bring expertise in climate modeling, extreme event analysis, and data-driven risk assessment. My background equips me to bridge advanced atmospheric science with real-world solutions for energy, infrastructure, and insurance sectors.
 
