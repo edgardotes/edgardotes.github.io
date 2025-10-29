@@ -35,7 +35,7 @@ __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
 
-- Segura, H., Pedruzo-Bagazgoitia, X., Weiss, P., Müller, S. K., Rackow, T., Lee, J., **Dolores-Tesillos, E.**, Benedict, I., Aengenheyster, M., Aguridan, R., Arduini, G., Baker, A. J., Bao, J., Bastin, S., Baulenas, E., Becker, T., Beyer, S., Bockelmann, H., Brüggemann, N., ... Stevens, B.  (2025) (accepted):
+- Segura, H., Pedruzo-Bagazgoitia, X., Weiss, P., Müller, S. K., Rackow, T., Lee, J., **Dolores-Tesillos, E.**, Benedict, I., Aengenheyster, M., Aguridan, R., Arduini, G., Baker, A. J., Bao, J., Bastin, S., Baulenas, E., Becker, T., Beyer, S., Bockelmann, H., Brüggemann, N., ... Stevens, B.  (2025):
 <a href="https://doi.org/10.5194/gmd-18-7735-2025" target="_blank">nextGEMS: entering the era of kilometer-scale Earth system modeling</a>,
 _Geosci. Model Dev._
 <!--
