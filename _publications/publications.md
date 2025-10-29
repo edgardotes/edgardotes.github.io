@@ -15,7 +15,7 @@ I have published 4 peer-reviewed articles, which have been cited more than 50 ti
 Coming up
 ---------
 
--**Dolores-Tesillos, E.**, Martius, O., and Pfahl, S. (2025) (under review): 
+- **Dolores-Tesillos, E.**, Martius, O., and Pfahl, S. (2025) (under review): 
 <a href="https://doi.org/10.5194/egusphere-2025-4969" target="_blank">Storm-Resolving Models Advance Atmospheric Blocking Simulations and Climate Change Insights</a>,
 _EGUsphere [preprint]_,
 <!--
