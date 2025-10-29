@@ -17,7 +17,7 @@ Coming up
 
 - **Dolores-Tesillos, E.**, Martius, O., and Pfahl, S. (2025) (under review): 
 <a href="https://doi.org/10.5194/egusphere-2025-4969" target="_blank">Storm-Resolving Models Advance Atmospheric Blocking Simulations and Climate Change Insights</a>,
-_EGUsphere [preprint]_,
+_EGUsphere [preprint]_.
 <!--
 <a href="/publications/Dolores2025_eguspehere.pdf" target="_blank"><b>PDF</b></a>
 <a href="/publications/supplement/Dolores2025_eguspehere_supplement.pdf" target="_blank">Supplement</a>
@@ -37,7 +37,7 @@ __,
 
 - Segura, H., Pedruzo-Bagazgoitia, X., Weiss, P., Müller, S. K., Rackow, T., Lee, J., **Dolores-Tesillos, E.**, Benedict, I., Aengenheyster, M., Aguridan, R., Arduini, G., Baker, A. J., Bao, J., Bastin, S., Baulenas, E., Becker, T., Beyer, S., Bockelmann, H., Brüggemann, N., ... Stevens, B.  (2025) (accepted):
 <a href="https://doi.org/10.5194/gmd-18-7735-2025" target="_blank">nextGEMS: entering the era of kilometer-scale Earth system modeling</a>,
-_Geosci. Model Dev._,
+_Geosci. Model Dev._
 <!--
 <a href="/publications/Hans2025_gmd.pdf" target="_blank"><b>PDF</b></a>
 <a href="/publications/supplement/Hans2025_gmd_supplement.pdf" target="_blank">Supplement</a>
