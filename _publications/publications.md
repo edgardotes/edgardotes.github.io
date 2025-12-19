@@ -34,7 +34,7 @@ __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
 
-- Baulenas, E., Veerman, M., **Dolores-Tesillos, E.**, Lacima-Nadolnik, A., Delgado-Torres, C., Haslehner, K., Kumar, A., Soret, A., & Bojovic, D. (in press): 
+- Baulenas, E., Veerman, M., **Dolores-Tesillos, E.**, Lacima-Nadolnik, A., Delgado-Torres, C., Haslehner, K., Kumar, A., Soret, A., & Bojovic, D. (2025): 
 <a href="https://doi.org/10.1016/j.erss.2025.104513" target="_blank">Km-scale earth system models to support the renewable energy transition: Combining storyline approaches as boundary object</a>,
 _Energy Research & Social Science_.
 <!--
