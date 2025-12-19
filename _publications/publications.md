@@ -14,15 +14,6 @@ I have published 4 peer-reviewed articles, which have been cited more than 50 ti
 
 Coming up
 ---------
-
-- Baulenas, E., Veerman, M., **Dolores-Tesillos, E.**, Lacima-Nadolnik, A., Delgado-Torres, C., Haslehner, K., Kumar, A., Soret, A., & Bojovic, D. (in press): 
-<a target="_blank">Km-scale earth system models to support the renewable energy transition: Combining storyline approaches as boundary object</a>,
-_Energy Research & Social Science_.
-<!--
-<a href="/publications/Dolores2025_eguspehere.pdf" target="_blank"><b>PDF</b></a>
-<a href="/publications/supplement/Dolores2025_eguspehere_supplement.pdf" target="_blank">Supplement</a>
- -->
- 
 - **Dolores-Tesillos, E.**, Martius, O., and Pfahl, S. (2025) (under review): 
 <a href="https://doi.org/10.5194/egusphere-2025-4969" target="_blank">Storm-Resolving Models Advance Atmospheric Blocking Simulations and Climate Change Insights</a>,
 _EGUsphere [preprint]_.
@@ -42,6 +33,14 @@ Peer-reviewed
 __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
+
+- Baulenas, E., Veerman, M., **Dolores-Tesillos, E.**, Lacima-Nadolnik, A., Delgado-Torres, C., Haslehner, K., Kumar, A., Soret, A., & Bojovic, D. (in press): 
+<a href="https://doi.org/10.1016/j.erss.2025.104513" target="_blank">Km-scale earth system models to support the renewable energy transition: Combining storyline approaches as boundary object</a>,
+_Energy Research & Social Science_.
+<!--
+<a href="/publications/Dolores2025_eguspehere.pdf" target="_blank"><b>PDF</b></a>
+<a href="/publications/supplement/Dolores2025_eguspehere_supplement.pdf" target="_blank">Supplement</a>
+ -->
 
 - Segura, H., Pedruzo-Bagazgoitia, X., Weiss, P., Müller, S. K., Rackow, T., Lee, J., **Dolores-Tesillos, E.**, Benedict, I., Aengenheyster, M., Aguridan, R., Arduini, G., Baker, A. J., Bao, J., Bastin, S., Baulenas, E., Becker, T., Beyer, S., Bockelmann, H., Brüggemann, N., ... Stevens, B.  (2025):
 <a href="https://doi.org/10.5194/gmd-18-7735-2025" target="_blank">nextGEMS: entering the era of kilometer-scale Earth system modeling</a>,
