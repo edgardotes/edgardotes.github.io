@@ -22,6 +22,13 @@ _EGUsphere [preprint]_.
 <a href="/publications/supplement/Dolores2025_eguspehere_supplement.pdf" target="_blank">Supplement</a>
  -->
 
+- Doensen, O., Messmer, M., **Dolores-Tesillos, E.**, and Raible, C. C. (2025) (under review):
+  <a href="https://doi.org/10.5194/egusphere-2025-6315" target="_blank">Extreme Mediterranean cyclones under future climate change </a>, _EGUsphere [preprint]_.
+  <!--
+<a href="/publications/Dolores2025_eguspehere.pdf" target="_blank"><b>PDF</b></a>
+<a href="/publications/supplement/Dolores2025_eguspehere_supplement.pdf" target="_blank">Supplement</a>
+ -->
+
 Peer-reviewed
 -------------
 
