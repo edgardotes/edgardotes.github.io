@@ -68,8 +68,8 @@ _Weather Clim. Dynam._
  - Ackerley, D., Catto, J. L., **Dolores-Tesillos, E.** Priestley, M. D. K., Raveh-Rubin, S., Schiemann, R., & Suitters, C. C. (2025):
 <a href="https://www.sciencedirect.com/science/article/pii/B9780443157486000058" target="_blank">Weather systems in mid-latitudes.</a> In Reference Module in Earth Systems and Environmental Sciences,
 _Elsevier_
+<a href="/publications/2025Ackerleyetal.pdf" target="_blank"><b>PDF</b></a>
 <!--
-<a href="/publications/Ackerley2025_elsevier_blocks.pdf" target="_blank"><b>PDF</b></a>,
 <a href="/publications/supplement/Ackerley2025_elsevier_blocks_supplement.pdf" target="_blank">Supplement</a>
  -->
 
