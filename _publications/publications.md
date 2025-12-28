@@ -81,7 +81,7 @@ _Environmental Research Letters_,
 <a href="/publications/supplement/Dolores2024_erl_supplement.pdf" target="_blank">Supplement</a>
  -->
  
-- **Dolores-Tesillos E.**, and Pfahl, S (2024):
+- **Dolores-Tesillos, E.**, and Pfahl, S (2024):
   <a href="https://doi.org/10.5194/wcd-5-163-2024" target="_blank">Future changes in North Atlantic winter cyclones in CESM-LE – Part 2: A Lagrangian analysis</a>,
 _Weather Clim. Dynam._
 <!-- 
@@ -89,7 +89,7 @@ _Weather Clim. Dynam._
 <a href="/publications/supplement/Dolores2024_wcd_cyclones_supplement.pdf" target="_blank">Supplement</a>
  -->
  
-- **Dolores-Tesillos E.**, Teubler, F., and Pfahl, S. (2022):
+- **Dolores-Tesillos, E.**, Teubler, F., and Pfahl, S. (2022):
   <a href="https://doi.org/10.5194/wcd-3-429-2022" target="_blank">Future changes in North Atlantic winter cyclones in CESM-LE – Part 1: Cyclone intensity, potential vorticity anomalies, and horizontal wind speed</a>,
 _Weather Clim. Dynam._
 <!-- 
@@ -97,7 +97,7 @@ _Weather Clim. Dynam._
 <a href="/publications/supplement/Dolores2022_wcd_cyclones_supplement.pdf" target="_blank">Supplement</a>
  -->
  
-- **Dolores-Tesillos E.**, Caetano, E., López-Bravo, L. C., and Calheiros, A. (2019):
+- **Dolores-Tesillos, E.**, Caetano, E., López-Bravo, L. C., and Calheiros, A. (2019):
   <a href="https://doi.org/10.1080/22797254.2019.1700397" target="_blank">Influence of soil moisture on mesoscale convective initiation in central Mexico</a>,
 _European Journal of Remote Sensing_
 <!-- 
@@ -109,14 +109,14 @@ Other
 -----
 <!-- / Andere -->
 
-- **Dolores-Tesillos E.** (2022):
+- **Dolores-Tesillos, E.** (2022):
   <a href="http://dx.doi.org/10.17169/refubium-36403" target="_blank">Changes in Extratropical Cyclone Dynamics in the North Atlantic in a Warming Climate (PhD thesis)</a>,
 _Freie Universitaet Berlin_
 <!-- 
 <a href="/publications/Dolores2022_PHD.pdf" target="_blank"><b>PDF</b></a>
  -->
 
-- **Dolores-Tesillos E.** (2017):
+- **Dolores-Tesillos, E.** (2017):
   <a href="https://repositorio.unam.mx/contenidos/297020" target="_blank">Detección del impacto de la humedad del suelo en la iniciación convectiva en México" (Master's thesis)</a>,
 _Universidad Nacional Autónoma de México_
 <!-- 
