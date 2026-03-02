@@ -41,6 +41,14 @@ __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
 
+- Duque-Gardeazabal, N., Brönnimann, S., Friedman, A. R., **Dolores-Tesillos, E.**, and Martius, O. (2026): 
+<a href="https://doi.org/10.1002/met.70165" target="_blank">Solar and Wind Energy Variability in Tropical South America: Seasonal Ocean-Atmospheric Modulators</a>,
+_Meteorological Applications_.
+<!--
+<a href="/publications/Dolores2025_eguspehere.pdf" target="_blank"><b>PDF</b></a>
+<a href="/publications/supplement/Dolores2025_eguspehere_supplement.pdf" target="_blank">Supplement</a>
+ -->
+ 
 - Baulenas, E., Veerman, M., **Dolores-Tesillos, E.**, Lacima-Nadolnik, A., Delgado-Torres, C., Haslehner, K., Kumar, A., Soret, A., & Bojovic, D. (2025): 
 <a href="https://doi.org/10.1016/j.erss.2025.104513" target="_blank">Km-scale earth system models to support the renewable energy transition: Combining storyline approaches as boundary object</a>,
 _Energy Research & Social Science_.
