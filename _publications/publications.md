@@ -42,7 +42,7 @@ __,
 -->
 
 - Duque-Gardeazabal, N., Brönnimann, S., Friedman, A. R., **Dolores-Tesillos, E.**, and Martius, O. (2026): 
-<a href="https://doi.org/10.1002/met.70165" target="_blank">Solar and Wind Energy Variability in Tropical South America: Seasonal Ocean-Atmospheric Modulators</a>,
+<a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/met.70165" target="_blank">Solar and Wind Energy Variability in Tropical South America: Seasonal Ocean-Atmospheric Modulators</a>,
 _Meteorological Applications_.
 <!--
 <a href="/publications/Dolores2025_eguspehere.pdf" target="_blank"><b>PDF</b></a>
