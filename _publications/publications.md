@@ -124,6 +124,10 @@ Other
 -----
 <!-- / Andere -->
 
+- **Dolores Tesillos, E.** and Romppainen-Martius, O. (2025):
+ <a href="https://doi.org/10.5281/zenodo.16811905" target="_blank">
+ D9.1: Report on the evaluation of atmospheric blocking and underlying mechanisms in the SR-ESMs, _Zenodo_. 
+
 - **Dolores-Tesillos, E.** (2022):
   <a href="http://dx.doi.org/10.17169/refubium-36403" target="_blank">Changes in Extratropical Cyclone Dynamics in the North Atlantic in a Warming Climate (PhD thesis)</a>,
 _Freie Universitaet Berlin_
