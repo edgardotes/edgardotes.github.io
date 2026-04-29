@@ -29,6 +29,13 @@ _EGUsphere [preprint]_.
 <a href="/publications/supplement/Dolores2025_eguspehere_supplement.pdf" target="_blank">Supplement</a>
  -->
 
+ - van Heerwaarden C. C., Veerman M., A., Benedict I., Brunner L., **Dolores-Tesillos E.**, ..., Cathy Hohenegger (2026) (under review):
+<a href="https://arxiv.org/abs/2604.2544" target="_blank">Evaluating local climate in global storm-resolving models with the K\"oppen-Geiger classification</a>, _arXiv [preprint]_.
+<!--
+<a href="/publications/Dolores2025_eguspehere.pdf" target="_blank"><b>PDF</b></a>
+<a href="/publications/supplement/Dolores2025_eguspehere_supplement.pdf" target="_blank">Supplement</a>
+ -->
+
 Peer-reviewed
 -------------
 
