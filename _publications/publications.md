@@ -124,7 +124,7 @@ Other
 -----
 <!-- / Andere -->
 
-- **Dolores Tesillos, E.** and Romppainen-Martius, O. (2025):<a href="https://doi.org/10.5281/zenodo.16811905" target="_blank">D9.1: Report on the evaluation of atmospheric blocking and underlying mechanisms in the SR-ESMs</a>, _Zenodo_.
+- **Dolores Tesillos, E.** and Romppainen-Martius, O. (2025): <a href="https://doi.org/10.5281/zenodo.16811905" target="_blank">D9.1: Report on the evaluation of atmospheric blocking and underlying mechanisms in the SR-ESMs</a>, _Zenodo_.
 
 - Romppainen-Martius, O. and **Dolores Tesillos, E.** (2025): <a href="https://doi.org/10.5281/zenodo.16812141" target="_blank">D9.6: Maps of hazardous weather based on inputs from the hazarckthon and SR-ESM output</a>, _Zenodo_.
 
