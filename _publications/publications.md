@@ -14,15 +14,7 @@ I have published 4 peer-reviewed articles, which have been cited more than 50 ti
 
 Coming up
 ---------
-- **Dolores-Tesillos, E.**, Martius, O., and Pfahl, S. (2025) (under review): 
-<a href="https://doi.org/10.5194/egusphere-2025-4969" target="_blank">Storm-Resolving Models Advance Atmospheric Blocking Simulations and Climate Change Insights</a>,
-_EGUsphere [preprint]_.
-<!--
-<a href="/publications/Dolores2025_eguspehere.pdf" target="_blank"><b>PDF</b></a>
-<a href="/publications/supplement/Dolores2025_eguspehere_supplement.pdf" target="_blank">Supplement</a>
- -->
-
-- Doensen, O., Messmer, M., **Dolores-Tesillos, E.**, and Raible, C. C. (2025) (under review):
+- Doensen, O., Messmer, M., **Dolores-Tesillos, E.**, and Raible, C. C. (2025) (accepted):
 <a href="https://doi.org/10.5194/egusphere-2025-6315" target="_blank">Extreme Mediterranean cyclones under future climate change</a>, _EGUsphere [preprint]_.
 <!--
 <a href="/publications/Dolores2025_eguspehere.pdf" target="_blank"><b>PDF</b></a>
@@ -48,6 +40,14 @@ __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
 
+- **Dolores-Tesillos, E.**, Martius, O., and Pfahl, S. (2026): 
+<a href="https://doi.org/10.5194/wcd-7-1089-2026" target="_blank">Atmospheric blocking representation in storm-resolving climate models under historical and future forcing</a>,
+_Weather Clim. Dynam._
+<!--
+<a href="/publications/Dolores2025_eguspehere.pdf" target="_blank"><b>PDF</b></a>
+<a href="/publications/supplement/Dolores2025_eguspehere_supplement.pdf" target="_blank">Supplement</a>
+ -->
+ 
 - Duque-Gardeazabal, N., Brönnimann, S., Friedman, A. R., **Dolores-Tesillos, E.**, and Martius, O. (2026): 
 <a href="https://rmets.onlinelibrary.wiley.com/doi/10.1002/met.70165" target="_blank">Solar and Wind Energy Variability in Tropical South America: Seasonal Ocean-Atmospheric Modulators</a>,
 _Meteorological Applications_.
