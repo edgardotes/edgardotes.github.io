@@ -14,8 +14,8 @@ I have published 4 peer-reviewed articles, which have been cited more than 50 ti
 
 Coming up
 ---------
-- Doensen, O., Messmer, M., **Dolores-Tesillos, E.**, and Raible, C. C. (2025) (accepted):
-<a href="https://doi.org/10.5194/egusphere-2025-6315" target="_blank">Extreme Mediterranean cyclones under future climate change</a>, _EGUsphere [preprint]_.
+- **Dolores-Tesillos, E.**, Pothapakula, P. K., Zeman, C., and Domeisen, D. I. V. (2026) (under review):
+<a href="https://doi.org/10.5194/egusphere-2026-5758" target="_blank">A model hierarchy to investigate heatwave persistence: From climate models to storm-resolving simulations</a>, _EGUsphere [preprint]_.
 <!--
 <a href="/publications/Dolores2025_eguspehere.pdf" target="_blank"><b>PDF</b></a>
 <a href="/publications/supplement/Dolores2025_eguspehere_supplement.pdf" target="_blank">Supplement</a>
@@ -39,6 +39,13 @@ Peer-reviewed
 __,
 <a href="/publications/" target="_blank"><b>PDF</b></a>
 -->
+
+- Doensen, O., Messmer, M., **Dolores-Tesillos, E.**, and Raible, C. C. (2026):
+<a href="https://doi.org/10.5194/wcd-7-1899-2026" target="_blank">Mediterranean cyclones from pre-industrial to future climate: changes in extreme wind, precipitation and compound precipitation–wind events</a>, _Weather Clim. Dynam._.
+<!--
+<a href="/publications/Dolores2025_eguspehere.pdf" target="_blank"><b>PDF</b></a>
+<a href="/publications/supplement/Dolores2025_eguspehere_supplement.pdf" target="_blank">Supplement</a>
+ -->
 
 - **Dolores-Tesillos, E.**, Martius, O., and Pfahl, S. (2026): 
 <a href="https://doi.org/10.5194/wcd-7-1089-2026" target="_blank">Atmospheric blocking representation in storm-resolving climate models under historical and future forcing</a>,
